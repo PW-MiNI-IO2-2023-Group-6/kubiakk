@@ -11,6 +11,7 @@ namespace StringCalculatorNamespace
 
         public static int Add(string numbers)
         {
+            return 0;
             if (numbers == "")
                 return 0;
             List<string> delimeters = new List<string>();
